@@ -1,3 +1,4 @@
 # GestaoFuncionarios
-Gestão de Funcionários - PSS
+Gestão de Funcionários 
+Disciplina de Projeto de Sistemas de Software
 
